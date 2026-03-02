@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B Projects\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\ProjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|solutionrelative:TaskManager\\ProjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\Models.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|solutionrelative:TaskManager\\Models.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\ProjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|solutionrelative:TaskManager\\ProjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\TaskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B9D6D2-4BFD-4AD3-BCBD-EA91E061411C}|TaskManager\\TaskManager.vcxproj|solutionrelative:TaskManager\\TaskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectManager.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\ProjectManager.cpp",
+              "RelativeDocumentMoniker": "TaskManager\\ProjectManager.cpp",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\ProjectManager.cpp",
+              "RelativeToolTip": "TaskManager\\ProjectManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T03:55:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectManager.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\ProjectManager.h",
+              "RelativeDocumentMoniker": "TaskManager\\ProjectManager.h",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\ProjectManager.h",
+              "RelativeToolTip": "TaskManager\\ProjectManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-02T03:48:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\Models.h",
+              "RelativeDocumentMoniker": "TaskManager\\Models.h",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\Models.h",
+              "RelativeToolTip": "TaskManager\\Models.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-02T03:41:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\TaskManager.cpp",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.cpp",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\TaskManager\\TaskManager\\TaskManager.cpp",
+              "RelativeToolTip": "TaskManager\\TaskManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T03:41:18.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
